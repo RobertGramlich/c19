@@ -1,2 +1,2 @@
-# c19
+# C19
 Modeling demographic modes for death rates based on vaccination status
